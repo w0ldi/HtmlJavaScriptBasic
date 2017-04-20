@@ -15,3 +15,6 @@
 || lub - Or
 && i - And
 operator precedence - mozilla dev page
+
+false && true zwraca false
+false || true zwraca true
