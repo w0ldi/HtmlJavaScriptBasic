@@ -1,0 +1,17 @@
+20 == 20 true
+20 == 21 false
+"hello" == "Hello" false (Case sensitive)
+
+== porownuje wartosc
+==== porownuje wartosc i typ
+!= nie jest rowne
+!== nie jest rowne jako typ
+
+20 != "20" false
+20 !== "20" true
+
+> wieksze
+< mniejsze
+|| lub - Or
+&& i - And
+operator precedence - mozilla dev page
